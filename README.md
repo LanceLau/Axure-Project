@@ -1,2 +1,2 @@
 # LanceProject
-Hi,human.I'm starting t0 use github.
+Hi,human.I'm starting to use github.
