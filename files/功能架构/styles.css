@@ -1,0 +1,36 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:852px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u173_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:852px;
+  height:2047px;
+}
+#u173 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:852px;
+  height:2047px;
+}
+#u174 {
+  position:absolute;
+  left:2px;
+  top:1016px;
+  width:848px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
